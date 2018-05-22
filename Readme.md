@@ -1,4 +1,4 @@
 learnPy
 ===========
 
-Andy learn from google to study Python.
+Andy's blog to to study Python from google.
